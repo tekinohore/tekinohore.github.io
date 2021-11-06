@@ -1,0 +1,112 @@
+Uri: https://crypto-software.ru/
+File Name: c:\Downloaded Web Sites\crypto-software.ru\index.htm
+Content Type: text/html
+
+Uri: https://crypto-software.ru/images/favicon.png
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\favicon.png
+Content Type: image/png
+
+Uri: https://crypto-software.ru/css/index.css
+File Name: c:\Downloaded Web Sites\crypto-software.ru\css\index.css
+Content Type: text/css
+
+Uri: https://crypto-software.ru/images/cropped-png-venchy-1-150x150.png
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\cropped-png-venchy-1-150x150.png
+Content Type: image/png
+
+Uri: https://crypto-software.ru/images/instagram logo.png
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\instagram logo.png
+Content Type: image/png
+
+Uri: https://crypto-software.ru/images/mail.png
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\mail.png
+Content Type: image/png
+
+Uri: https://crypto-software.ru/images/2cb8ab4aa36fc040dc4c34f1b4e3ba33-1536x705.gif
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\2cb8ab4aa36fc040dc4c34f1b4e3ba33-1536x705.gif
+Content Type: image/gif
+
+Uri: https://crypto-software.ru/images/gear.png
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\gear.png
+Content Type: image/png
+
+Uri: https://crypto-software.ru/images/about.jpg
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\about.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-software.ru/images/coding.png
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\coding.png
+Content Type: image/png
+
+Uri: https://crypto-software.ru/images/instagram.png
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\instagram.png
+Content Type: image/png
+
+Uri: https://crypto-software.ru/images/bulb.png
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\bulb.png
+Content Type: image/png
+
+Uri: https://crypto-software.ru/images/copyright.png
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\copyright.png
+Content Type: image/png
+
+Uri: https://crypto-software.ru/images/portfolio-first.jpg
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\portfolio-first.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-software.ru/images/portfolio-second.jpg
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\portfolio-second.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-software.ru/images/portfolio-third.jpg
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\portfolio-third.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-software.ru/images/portfolio-fourth.jpg
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\portfolio-fourth.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-software.ru/images/post-one.jpg
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\post-one.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-software.ru/images/post-two.jpg
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\post-two.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-software.ru/images/post-three.jpg
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\post-three.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-software.ru/images/post-four.jpg
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\post-four.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-software.ru/images/post-five.jpg
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\post-five.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-software.ru/images/post-six.jpg
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\post-six.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-software.ru/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\crypto-software.ru\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://crypto-software.ru/js/particles.js
+File Name: c:\Downloaded Web Sites\crypto-software.ru\js\particles.js
+Content Type: application/x-javascript
+
+Uri: https://crypto-software.ru/js/particles.min.js
+File Name: c:\Downloaded Web Sites\crypto-software.ru\js\particles.min.js
+Content Type: application/x-javascript
+
+Uri: https://crypto-software.ru/js/index.js
+File Name: c:\Downloaded Web Sites\crypto-software.ru\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://crypto-software.ru/images/contact-back.jpg
+File Name: c:\Downloaded Web Sites\crypto-software.ru\images\contact-back.jpg
+Content Type: image/jpeg
+
